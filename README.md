@@ -243,12 +243,6 @@ black janitorr.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Inspired by the need for clean, organized media libraries
-- Built for the home media server community
-- Designed with safety and user control in mind
-
 ---
 
 **⚡ Pro Tip**: Start with `--interactive --dry-run` to get familiar with what Janitorr finds in your library!
